@@ -1,4 +1,4 @@
-v 0.3.0
+v 0.4.0
 # gitflow-simu
 This is a demo about gitflow
 
