@@ -11,4 +11,4 @@ testing feature3 gitflow
 
 # Collaboration
 
-Pull request to develop in github
+Pull request to develop in github. 
