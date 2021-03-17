@@ -1,17 +1,20 @@
 v 0.4.2
-# gitflow-simu
-This is a demo about gitflow
+# Git flow practice
 
-testing feature gitflow
+## Git fundamentals
 
-testing feature2 gitflow
+### init
++ git init
 
+### status 
++ git status
 
-testing feature3 gitflow
+### ignore
++ git add .gitignore
 
+### diff
++ git diff
++ git difftool
 
-# Collaboration
-
-Pull request to develop in github. 
-
-some text.
+### view changes made in the commit
++ git show
